@@ -1,2 +1,2 @@
-Version 1.1 - feature/DEMO-1 Added1
+Version 1.2 - add second from demo branch
 
