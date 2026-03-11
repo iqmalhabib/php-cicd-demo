@@ -1,2 +1,2 @@
-Version 1.0 - Initial Release
+Version 1.2 - add second from demo branch
 
